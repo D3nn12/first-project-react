@@ -1,0 +1,33 @@
+Que son componentes?
+Los componentes en react son como funciones, algo muy importante a resaltar es que todos los componentes en react se deben inicializar con una letra mayuscula. los componentes son "funciones"
+
+
+ejemplo TodoItems(){
+    return()
+}
+el return no es el componente. 
+
+Los elementos siempte viven dentro de los componentes, que luego se renderisa;
+
+Como comunicarse entre componentes?
+
+
+como creamos addEventListener con React.js?
+
+ <input className="searchInput" placeholder="Cortar cebolla" onChange={(event)=>{
+            console.log(event)
+            console.log(event.target)
+            console.log(event.target.value)
+
+
+        }} ></input>
+
+Basicamente todo se hace desde las etiquetas, algo a tener en cuenta es que todo el evento se tiene que encapsular con una funciones, puede ser una arrow funciones tambien. 
+
+Que son los estados React?
+
+
+Que son los efectos en React?
+
+
+

@@ -1,0 +1,52 @@
+.Modal-container{
+    max-width: 300px;
+    width: 70%;
+    height: 275px;
+    border: 1px solid black;
+    position: fixed;
+    top: 35%;
+    left:10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 5px 25px rgba(28, 40, 43, 0.5);
+    /* z-index: 1; */
+    row-gap: 15px;
+
+}
+
+.Modal-container--input{
+    width: 75%;
+    height: 90px;
+    text-align: center;
+    /* margin-bottom: 10px; */
+    border: solid 2px black;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.Modal-container--input:focus{
+    outline-color:deepskyblue
+}
+
+.TodoForm-buttonContainer{
+    display: flex;
+    width: 80%;
+}
+.TodoForm-button{
+    width: 80px;
+    background: none;
+    border: none;
+    box-shadow: 0px 2px 5px rgba(28, 40, 43, 0.5);
+    margin: 8px;
+    padding: 8px;
+    font-weight: 700;
+}
+.TodoForm-button--add{
+    background-color: #61DAFA;
+    
+}
