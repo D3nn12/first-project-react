@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/first-project-react/static/css/main.1fc53241.chunk.css",
+    "main.js": "/first-project-react/static/js/main.91d6213d.chunk.js",
+    "main.js.map": "/first-project-react/static/js/main.91d6213d.chunk.js.map",
+    "runtime~main.js": "/first-project-react/static/js/runtime~main.382478a1.js",
+    "runtime~main.js.map": "/first-project-react/static/js/runtime~main.382478a1.js.map",
+    "static/js/2.8696a317.chunk.js": "/first-project-react/static/js/2.8696a317.chunk.js",
+    "static/js/2.8696a317.chunk.js.map": "/first-project-react/static/js/2.8696a317.chunk.js.map",
+    "index.html": "/first-project-react/index.html",
+    "precache-manifest.a412107484c3a36f5563d600d1e93a14.js": "/first-project-react/precache-manifest.a412107484c3a36f5563d600d1e93a14.js",
+    "service-worker.js": "/first-project-react/service-worker.js",
+    "static/css/main.1fc53241.chunk.css.map": "/first-project-react/static/css/main.1fc53241.chunk.css.map",
+    "static/media/check.6934f2a6.svg": "/first-project-react/static/media/check.6934f2a6.svg",
+    "static/media/deleteIcon.257ddb03.svg": "/first-project-react/static/media/deleteIcon.257ddb03.svg"
+  }
+}
