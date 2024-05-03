@@ -28,7 +28,7 @@ function TodoCounter(){
 
     return(
       <h1 className="todoCounter">
-        You have completed<br></br> <span>{completedTodos}</span> out of <span>{totalTodos}</span> chores
+        You have completed<br></br> <span>{completedTodos}</span> out of <span>{totalTodos}</span> tasks
       </h1>
     );
   
